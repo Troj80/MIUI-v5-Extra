@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="show_arrows_main">0</string>
+<string name="swipe_right">Symbols</string>
+<string name="custom_punctuation">!?,@_</string>
+<boolean name="suggest_punctuation" value="true" />
+<string name="smiley_key">0</string>
+<boolean name="slide_popup" value="true" />
+<boolean name="always_suggest" value="true" />
+<boolean name="langEN" value="true" />
+<boolean name="t9_length_priority" value="true" />
+<boolean name="langRU" value="false" />
+<string name="skin">Galaxy</string>
+<boolean name="quick_fixes" value="false" />
+<boolean name="alt_symbols" value="true" />
+<boolean name="show_preview" value="true" />
+<boolean name="rtl_suggestions" value="true" />
+<string name="arrows_style">1</string>
+<boolean name="mic_button" value="false" />
+<string name="show_language_icon">0</string>
+<boolean name="dynamic_resizing" value="true" />
+<boolean name="langRU_SMALL" value="true" />
+<string name="swipe_up">Shift</string>
+<string name="swipe_down">Close</string>
+<boolean name="show_suggestions" value="true" />
+<boolean name="display_alt_labels" value="true" />
+<string name="sound_style">Android</string>
+<boolean name="auto_cap" value="true" />
+<boolean name="cursor_volume" value="true" />
+<boolean name="recorrection_enabled" value="true" />
+<boolean name="auto_complete" value="false" />
+<string name="latin_layout"></string>
+<boolean name="double_space_period" value="true" />
+<string name="portrait_mode">0</string>
+<boolean name="vibrate" value="false" />
+<string name="swipe_left">None</string>
+<string name="curLang">EN</string>
+</map>
