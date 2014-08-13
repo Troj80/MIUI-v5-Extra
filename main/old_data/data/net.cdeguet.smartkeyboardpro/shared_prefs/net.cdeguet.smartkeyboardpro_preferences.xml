@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="space_when_pick" value="false" />
+<boolean name="langEN_DVORAK" value="false" />
+<string name="show_arrows_main">0</string>
+<boolean name="suggest_numbers" value="false" />
+<boolean name="space_preview" value="false" />
+<string name="swipe_right">Symbols</string>
+<string name="custom_punctuation">!?,@_</string>
+<string name="smiley_key">0</string>
+<boolean name="calib_done" value="true" />
+<boolean name="langEM" value="false" />
+<boolean name="accents_priority" value="false" />
+<boolean name="hide_in_portrait" value="false" />
+<boolean name="langEN" value="true" />
+<boolean name="langEN_UK" value="false" />
+<string name="skin">Galaxy</string>
+<boolean name="langEN_AZERTY" value="false" />
+<boolean name="quick_fixes" value="false" />
+<boolean name="hide_lang_key" value="false" />
+<boolean name="ignore_hard_kbd" value="false" />
+<boolean name="alt_symbols" value="true" />
+<boolean name="show_preview" value="true" />
+<boolean name="disable_launcher" value="true" />
+<boolean name="rtl_suggestions" value="true" />
+<boolean name="voice_best" value="false" />
+<string name="arrows_style">1</string>
+<boolean name="langEN_INTL" value="false" />
+<boolean name="learn_new_words" value="true" />
+<boolean name="langRU_SMALL" value="true" />
+<boolean name="dynamic_resizing" value="true" />
+<boolean name="persistent_domain_key" value="true" />
+<boolean name="langRU_PHONE3" value="false" />
+<boolean name="enter_sends_sms" value="false" />
+<int name="calib_p_space" value="4" />
+<boolean name="langRU_YaShERT" value="false" />
+<boolean name="langRU_PHONE4" value="false" />
+<string name="swipe_up">Shift</string>
+<boolean name="disable_mt" value="false" />
+<string name="swipe_down">Close</string>
+<string name="domain_7">.ru</string>
+<string name="domain_6">.ua</string>
+<string name="domain_5">.com.ua</string>
+<string name="sound_style">Galaxy</string>
+<string name="domain_4">.kiev.ua</string>
+<boolean name="swap_punctuation_space" value="false" />
+<boolean name="czech_full" value="false" />
+<boolean name="t9_next_key" value="true" />
+<boolean name="compound_suggestions" value="false" />
+<boolean name="auto_cap" value="true" />
+<boolean name="no_lansdcape_fullscreen" value="false" />
+<boolean name="enable_arrows" value="true" />
+<boolean name="hide_period" value="false" />
+<string name="latin_layout"></string>
+<boolean name="suggest_hard" value="false" />
+<boolean name="vibrate" value="false" />
+<boolean name="always_caps" value="false" />
+<boolean name="hebrew_alt" value="false" />
+<string name="curLang">RU_SMALL</string>
+<int name="calib_p_dx" value="4" />
+<int name="calib_p_dy" value="10" />
+<boolean name="langRU_TAB4" value="false" />
+<boolean name="langRU_TAB3" value="false" />
+<boolean name="suggest_punctuation" value="true" />
+<boolean name="slide_popup" value="true" />
+<boolean name="debug" value="false" />
+<boolean name="always_suggest" value="true" />
+<boolean name="touch_points" value="false" />
+<boolean name="langRU" value="false" />
+<boolean name="t9_length_priority" value="true" />
+<int name="vibrator_duration" value="6" />
+<boolean name="sound_on" value="true" />
+<boolean name="langEN_PHONE3" value="false" />
+<boolean name="langEN_PHONE4" value="false" />
+<string name="show_language_icon">0</string>
+<boolean name="mic_button" value="false" />
+<boolean name="portrait_fullscreen" value="false" />
+<boolean name="langEN_TAB3" value="false" />
+<boolean name="langEN_TAB4" value="false" />
+<boolean name="langUK" value="false" />
+<boolean name="no_alt_preview" value="false" />
+<boolean name="space_alert" value="false" />
+<boolean name="smart_dictionary" value="true" />
+<boolean name="show_suggestions" value="true" />
+<boolean name="display_alt_labels" value="true" />
+<boolean name="restart_voice" value="false" />
+<boolean name="alt_compact" value="false" />
+<boolean name="no_landscape_suggestions" value="false" />
+<boolean name="cursor_volume" value="true" />
+<boolean name="recorrection_enabled" value="true" />
+<boolean name="auto_complete" value="false" />
+<int name="volume" value="100" />
+<string name="portrait_mode">0</string>
+<boolean name="double_space_period" value="true" />
+<boolean name="hide_comma" value="false" />
+<boolean name="contact_dic" value="false" />
+<boolean name="apostrophe_separator" value="false" />
+<string name="swipe_left">None</string>
+</map>
